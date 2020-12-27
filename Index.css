@@ -1,0 +1,65 @@
+header{
+    background-color: teal;
+}
+footer{
+    background-color: teal;
+}
+a:visited{
+    color:teal;
+}
+a:hover{
+    color:gold;
+}
+a:active{
+    color: indigo;
+}
+a.list-group-item{
+    color: teal;
+}
+p{
+    font-weight:500;
+    font-size: 18px;
+}
+label{
+    font-weight: bold;
+}
+#linksuperior{
+    color:white;
+    text-align: right;
+}
+img{
+    height:100px;
+    width:100px ;  
+}
+a.footerlink:link{
+    color: white;
+}
+a.footerlink:visited{
+    color:white;
+}
+a.footerlink:hover{
+    color:gold;
+}
+a.footerlink:active{
+    color:indigo;
+}
+input.box1{
+    background-color: forestgreen;
+    color: ghostwhite;
+    font-weight: 500;
+    height: auto;
+    width: 100px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+pre{
+    font-size: medium;
+}
+input.form-control{
+    border-color:teal;
+    text-shadow: springgreen;
+}
+td.td-link{
+    vertical-align: bottom;
+}
